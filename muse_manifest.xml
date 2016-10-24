@@ -1,0 +1,29 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3919692998"/>
+    <file name="index.css" crc="271037408" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="83052715" ref="index"/>
+    <file name="logo_site.jpg" crc="158803425" ref="index"/>
+    <file name="logo_idc.png" crc="133313290" ref="index"/>
+    <file name="backgroud-crop-u238.jpg" crc="4260775787" ref="index"/>
+    <file name="background_2-u210.png" crc="3819849291" ref="index"/>
+    <file name="backg-1.gif" crc="4277437739" ref="index"/>
+    <file name="idc-3rd-platform (1).jpg" crc="203071750" ref="index"/>
+    <file name="ric.png" crc="174606859" ref="index"/>
+    <file name="jay.png" crc="220644291" ref="index"/>
+    <file name="untitled-1.jpg" crc="323714051" ref="index"/>
+    <file name="twitter47.png" crc="163326761" ref="index"/>
+    <file name="linkedin24.png" crc="250395390" ref="index"/>
+    <file name="social media10.png" crc="3967500226" ref="index"/>
+  </folder>
+  <file name="index.html" crc="276020539" mt="1450274227477" redirect="true"/>
+</manifest>
